@@ -1,7 +1,6 @@
 __pycache__
-
 gameparts/__pycache__
+venv
 
 *.txt
-
 pygame_test.py
