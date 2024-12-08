@@ -1,3 +1,7 @@
 __pycache__
 
 gameparts/__pycache__
+
+*.txt
+
+pygame_test.py
